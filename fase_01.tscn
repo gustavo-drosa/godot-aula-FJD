@@ -183,7 +183,10 @@ tile_set = SubResource("TileSet_jbu07")
 position = Vector2(758, 13.000004)
 
 [node name="inimigo" parent="." unique_id=2117980196 instance=ExtResource("6_bhug5")]
-position = Vector2(460, 14)
+position = Vector2(705, 134)
+
+[node name="inimigo2" parent="." unique_id=1560157801 instance=ExtResource("6_bhug5")]
+position = Vector2(443, 74)
 
 [node name="moeda" parent="." unique_id=1461492249 instance=ExtResource("7_5sqpf")]
 position = Vector2(204, 49)
